@@ -1,0 +1,7 @@
+.header{
+    text-align: center;
+    padding: 10px;
+}
+.header .logo img{
+    max-width: 200px;
+}

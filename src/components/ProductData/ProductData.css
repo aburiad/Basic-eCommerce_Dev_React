@@ -1,0 +1,31 @@
+h1,h2,h3,h4,h5,h6{
+    margin: 0;
+}
+h4{
+    font-weight: 400;
+    font-family:cursive;
+    margin-bottom: 10px;
+}
+.productWrap{
+    display: flex;
+    /* align-items: center; */
+    border-bottom: 1px solid #ddd;
+    margin: 30px;
+    padding-bottom: 10px;
+}
+.productThumb{
+    flex: 1;
+}
+.productThumb img{
+    max-width: 250px;
+}
+.productContent{
+    flex: 2;
+    padding: 0 30px;
+}
+.cart-add-btn{
+    display: inline-block;
+    text-align: center;
+    padding: 7px 15px;
+    cursor: pointer;
+}

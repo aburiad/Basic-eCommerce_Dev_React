@@ -1,0 +1,16 @@
+.navbar{
+    background: #000;
+    padding: 10px;
+}
+.navbar li{
+    display: inline-block;
+    text-align: center;
+    margin-right: 30px;
+}
+.navbar li a{
+    color: #fff;
+    text-decoration: none;
+}
+.navbar li a:hover{
+    color: beige;
+}

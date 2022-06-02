@@ -1,0 +1,15 @@
+.shop-page-layout{
+    display: flex;
+    padding: 10px;
+}
+.product-show{
+    flex: 3;
+}
+.cart-show{
+    flex: 1;
+    padding: 10px;
+}
+.cart-heading{
+    text-align: center;
+    margin: 0;
+}
